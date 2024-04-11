@@ -1,43 +1,47 @@
 body{
-	background-color: black;
-	color: lime;
-	font-family: 'Courier New', monospace;
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', monospace;
 }
 .topnav {
-	background-color: black;
-	overflow: hidden;
+  background-color: black;
+  overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-	float: left;
-	color: lime;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
+  float: left;
+  color: lime;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-	background-color: lime;
-	color: black;
+  background-color: lime;
+  color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-	background-color: lime;
-	color: black;
+  background-color: lime;
+  color: black;
 }
 * {
-	box-sizing: border-box;
-	font-size: 32px;
+  box-sizing: border-box;
+  font-size: 32px;
 }
 * {
-	box-sizing: border-box;
-	font-size: 32px;
+  box-sizing: border-box;
+  font-size: 32px;
 }
 .window {
-	background-color: black;
-	color: lime;
+  background-color: black;
+  color: lime;
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+  border-color: lime;
 }
